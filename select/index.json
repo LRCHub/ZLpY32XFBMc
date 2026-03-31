@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Love Tonight (Edit)",
+  "base_artist": "Shouse",
+  "createdAt": "2026-03-31T09:25:03.880774Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Tonight (Edit)",
+      "artist": "Shouse",
+      "has_synced": true,
+      "path": "select/01_Love_Tonight_(Edit)_Shouse.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Tonight - Edit",
+      "artist": "Shouse",
+      "has_synced": true,
+      "path": "select/02_Love_Tonight_-_Edit_Shouse.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Tonight (Edit)",
+      "artist": "Shouse",
+      "has_synced": true,
+      "path": "select/03_Love_Tonight_(Edit)_Shouse.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Tonight (edit)",
+      "artist": "Shouse",
+      "has_synced": true,
+      "path": "select/04_Love_Tonight_(edit)_Shouse.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Tonight (Edit)",
+      "artist": "Shouse",
+      "has_synced": true,
+      "path": "select/05_Love_Tonight_(Edit)_Shouse.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "11 Love Tonight (Edit) (Shouse)",
+      "artist": "Shouse",
+      "has_synced": true,
+      "path": "select/06_11_Love_Tonight_(Edit)_(Shouse)_Shouse.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Tonight (Edit)",
+      "artist": "Shouse & David Guetta",
+      "has_synced": true,
+      "path": "select/07_Love_Tonight_(Edit)_Shouse_&_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Tonight Edit",
+      "artist": "Shouse",
+      "has_synced": true,
+      "path": "select/08_Love_Tonight_Edit_Shouse.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Tonight (edit)",
+      "artist": "Shouse",
+      "has_synced": true,
+      "path": "select/09_Love_Tonight_(edit)_Shouse.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Tonight (Edit)",
+      "artist": "Shouse",
+      "has_synced": true,
+      "path": "select/10_Love_Tonight_(Edit)_Shouse.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Tonight (Edit) (Paused)",
+      "artist": "Shouse",
+      "has_synced": true,
+      "path": "select/11_Love_Tonight_(Edit)_(Paused)_Shouse.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "33.Love Tonight - Edit",
+      "artist": "Shouse",
+      "has_synced": true,
+      "path": "select/12_33.Love_Tonight_-_Edit_Shouse.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If We Fall In Love Tonight (Edit)",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/13_If_We_Fall_In_Love_Tonight_(Edit)_Rod_Stewart.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Tonight (Edit)",
+      "artist": "Shouse",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Tonight_(Edit)_Shouse.txt"
+    }
+  ]
+}
